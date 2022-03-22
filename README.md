@@ -5,6 +5,10 @@
 **Basic**
 ![Basic](https://user-images.githubusercontent.com/61059893/159444154-e53bc616-3391-4988-9d16-99f4efb92824.gif)
 
+**Challenge**
+![Challenge](https://user-images.githubusercontent.com/61059893/159487863-a0656ced-763a-4432-8431-67dfeae636e2.gif)
+<img width="1904" alt="스크린샷 2022-03-22 오후 9 58 17" src="https://user-images.githubusercontent.com/61059893/159487320-a177b66e-2210-4eb5-b9c9-e6531d187d6f.png">
+
 
 ### 2차 미션 스크린샷
 
