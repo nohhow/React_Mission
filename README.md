@@ -1,5 +1,11 @@
 # React_Mission
 
+### 3차 미션 스크린샷
+
+**Basic**
+![Basic](https://user-images.githubusercontent.com/61059893/159444154-e53bc616-3391-4988-9d16-99f4efb92824.gif)
+
+
 ### 2차 미션 스크린샷
 
 **Basic**
