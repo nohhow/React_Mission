@@ -2,6 +2,7 @@
 
 ### 3차 미션 스크린샷
 
+넷플릭스 클론 repo : https://github.com/nohhow/netflix-clone
 **Basic**
 ![Basic](https://user-images.githubusercontent.com/61059893/159444154-e53bc616-3391-4988-9d16-99f4efb92824.gif)
 
